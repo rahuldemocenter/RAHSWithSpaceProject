@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/rahuldemocenter/RAHSWithSpaceProject
   gitUsername: rahuldemocenter
   gitBranch: main
+services:
+- serviceName: project.rahswithspace.integrations:MyDateEFS
+  packages:
+  - name: RAHSWithSpaceProject
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.0.0.0.656
