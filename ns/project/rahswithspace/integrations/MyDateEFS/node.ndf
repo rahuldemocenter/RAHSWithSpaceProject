@@ -46,11 +46,11 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">rawa</value>
-    <value name="lastModifiedDate">1703138145333</value>
+    <value name="lastModifiedDate">1707301615976</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="id">2fe83c41c4934c7bb5e0c0646550f157</value>
+      <value name="id">a3ecad4b3d8f439ebc252e5381768116</value>
       <value name="group">default</value>
-      <value name="name">RAHS_21stDec23_001</value>
+      <value name="name">RAHS_6thFeb24</value>
       <value name="executionPlaneType">onprem</value>
     </record>
     <value name="displayName">MyDateEFS</value>
@@ -71,6 +71,7 @@
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
+        <Boolean name="serviceReferenceResolved">true</Boolean>
       </record>
     </record>
   </record>
